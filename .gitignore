@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+sentiment_model.joblib
+confusion_matrix.png
